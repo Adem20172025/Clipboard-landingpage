@@ -7,7 +7,6 @@ import { Workflow } from "./landingpage-comps/workflow";
 import { Companies } from "./landingpage-comps/companies";
 import { IosOs } from "./landingpage-comps/Ios$OS";
 import { Footer } from "./landingpage-comps/Footer";
-import { LiquidOceanDemo } from "./landingpage-comps/prax";
 function App() {
   return (
     <main
@@ -24,7 +23,6 @@ function App() {
       <Companies />
       <IosOs />
       <Footer />
-      <LiquidOceanDemo />
     </main>
   );
 }
